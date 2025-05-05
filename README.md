@@ -20,7 +20,6 @@ The dataset contains information on various restaurants listed on Zomato, includ
 - Majority of restaurants belong to the **Dining** category.
 - **Dining restaurants** receive more **votes** compared to Delivery or Café types.
 - Restaurants offering **online delivery** and **table booking** tend to have higher engagement.
-- Certain **locations** show higher restaurant density, which may reflect customer demand.
 - **Average cost for two** varies by restaurant type and location.
 - **Ratings** are commonly clustered between 3.0 and 4.5, suggesting overall positive customer experience.
 - There's a clear **correlation between votes and ratings**, indicating alignment between popularity and quality.
